@@ -1,2 +1,2 @@
 # Predicting-University-Student-Success-Rate-
-The project aims to develop a machine learning model to forecast students' academic performance using historical data on demographics, qualifications, attendance, and curricular performance to predict outcomes like final grades or GPA
+Predicting student success rate is a data science project that aims to develop a machine learning model capable of forecasting students' academic performance. The project involves using historical student data, such as demographics, previous qualifications, attendance, and curricular performance, as features to predict the target variable, which is typically a measure of academic success (e.g., final grades, graduation status, or GPA)
